@@ -1,13 +1,5 @@
 # OpenShift Tools Installer Action
 
-[![CI Checks](https://github.com/redhatryan/openshift-tools-installer/workflows/CI%20Checks/badge.svg)](https://github.com/redhatryan/openshift-tools-installer/actions?query=workflow%3A%22CI+Checks%22)
-[![Install from Mirror Example](https://github.com/redhatryan/openshift-tools-installer/actions/workflows/example_mirror.yml/badge.svg)](https://github.com/redhatryan/openshift-tools-installer/actions/workflows/example_mirror.yml)
-[![Install from GitHub Example](https://github.com/redhatryan/openshift-tools-installer/actions/workflows/example_github.yml/badge.svg)](https://github.com/redhatryan/openshift-tools-installer/actions/workflows/example_github.yml)
-[![Link checker](https://github.com/redhatryan/openshift-tools-installer/actions/workflows/link_checker.yml/badge.svg)](https://github.com/redhatryan/openshift-tools-installer/actions/workflows/link_checker.yml)
-
-[![tag badge](https://img.shields.io/github/v/tag/redharyan/openshift-tools-installer)](https://github.com/redhatryan/openshift-tools-installer/tags)
-[![license badge](https://img.shields.io/github/license/redhatryan/openshift-tools-installer)](./LICENSE)
-
 **openshift-tools-installer** is a GitHub Action that downloads, installs and caches OpenShift and Kubernetes related CLI tools from the [OpenShift Mirror](https://mirror.openshift.com/pub/openshift-v4/clients/) or from GitHub Releases, allowing you to easily use these tools in your Action workflows.
 
 - Leverages the Actions cache so subsequent downloads are lightning fast
