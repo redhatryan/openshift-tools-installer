@@ -1,4 +1,5 @@
 # OpenShift Tools Installer Action
+*for homelab use*
 
 [![CI Checks](https://github.com/redhat-actions/openshift-tools-installer/workflows/CI%20Checks/badge.svg)](https://github.com/redhat-actions/openshift-tools-installer/actions?query=workflow%3A%22CI+Checks%22)
 [![Install from Mirror Example](https://github.com/redhat-actions/openshift-tools-installer/actions/workflows/example_mirror.yml/badge.svg)](https://github.com/redhat-actions/openshift-tools-installer/actions/workflows/example_mirror.yml)
